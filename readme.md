@@ -12,7 +12,13 @@ Install depencencies
 ```shell 
 npm install
 ```
+
 Run server
 ```shell 
-npm start
+npm run start
+```
+
+Build for production
+```shell 
+npm run build
 ```
